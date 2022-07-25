@@ -1,0 +1,13 @@
+{
+  "information": {
+    "name": "ase-deep-copy",
+    "description": "deep copy of objects in lua",
+    "license": "GNU General Public License v3.0",
+    "author:name": "JuanDAC",
+    "author:email": "juanavila12.0308@gmail.com",
+    "author:url": "https://www.linkedin.com/in/juandac",
+    "github": "author github",
+    "alias": "ase-deep-copy"
+  },
+  "template": "juandac/ase-template-script"
+}
